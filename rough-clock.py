@@ -1,6 +1,7 @@
 import os
 import time
 from datetime import datetime
+import random
 
 # Letters are from Heavy Text Art Generator in https://www.fancytextpro.com/BigTextGenerator/TwoLine
 letters = """
@@ -62,4 +63,5 @@ while True:
         print(get_letter('G'))
     if hour >= 21 and hour < 24:
         print(get_letter('H'))
+    print(random.randint(0, 999999999))
     time.sleep(60)
