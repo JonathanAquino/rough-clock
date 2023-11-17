@@ -13,3 +13,5 @@ E - 12:00-15:00
 F - 15:00-18:00
 G - 18:00-21:00
 H - 21:00-0:00
+
+![Screenshot displaying the letter D.](screenshot.png)
